@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myworld2/static/css/main.db39fdf5.css",
+    "main.js": "/myworld2/static/js/main.c4c4575c.js",
+    "index.html": "/myworld2/index.html",
+    "main.db39fdf5.css.map": "/myworld2/static/css/main.db39fdf5.css.map",
+    "main.c4c4575c.js.map": "/myworld2/static/js/main.c4c4575c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db39fdf5.css",
+    "static/js/main.c4c4575c.js"
+  ]
+}

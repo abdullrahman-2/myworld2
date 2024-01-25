@@ -1,0 +1,22 @@
+*{padding: 0;
+margin: 0;
+box-sizing: border-box;}
+:root{
+ 
+/* light */
+--VeryDarkBlueLightText: hsl(200, 15%, 8%);
+--DarkGrayLightInput : hsl(0, 0%, 52%);
+--VeryLightGrayLightBackground: hsl(0, 0%, 98%);
+--white:hsl(0,0,100%)
+
+}
+body{
+    background-color: var(--VeryLightGrayLightBackground);
+}
+
+.dark{
+    --VeryLightGrayLightBackground: hsl(207, 26%, 17%);
+    --VeryDarkBlueLightText: hsl(0, 0%, 100%);
+--DarkGrayLightInput :  hsl(209, 23%, 22%);
+
+}
